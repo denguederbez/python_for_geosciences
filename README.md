@@ -100,3 +100,4 @@ Author
 Nikolay Koldunov
 
 koldunovn@gmail.com
+Deleted the Jupyter files
